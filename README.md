@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @justkevin225
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Node Js and REACT Js
+- 📫 join me with this number : +225 05 65 1000 29 or email : kevinkouakou113@gmail.com
